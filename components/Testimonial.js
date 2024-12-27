@@ -4,8 +4,8 @@ import Link from "next/link"
 import { testimonial } from "@/assets/data/dummydata"
 import { HiOutlineArrowRight } from "react-icons/hi"
 import { RiArrowLeftSLine, RiArrowRightSLine } from "react-icons/ri"
-import "slick-carousel/slick/slick.css"
-import "slick-carousel/slick/slick-theme.css"
+// import "slick-carousel/slick/slick.css"
+// import "slick-carousel/slick/slick-theme.css"
 import Slider from "react-slick"
 
 function SampleNextArrow(props) {
