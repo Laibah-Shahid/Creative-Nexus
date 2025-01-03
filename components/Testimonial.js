@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-key */
+/* eslint-disable @next/next/no-img-element */
 import React from "react"
 import { TitleSm } from "./common/Title"
 import Link from "next/link"
